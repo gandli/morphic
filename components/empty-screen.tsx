@@ -7,8 +7,8 @@ const exampleMessages = [
     message: 'Nvidia 为什么快速增长？'
   },
   {
-    heading: 'Apple Vision Pro 值得购买吗？',
-    message: 'Apple Vision Pro 值得购买吗？'
+    heading: '华为Pura70 值得购买吗？',
+    message: '华为Pura70 值得购买吗？'
   },
   {
     heading: '什么是检索增强生成（RAG）？',

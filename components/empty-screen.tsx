@@ -11,8 +11,8 @@ const exampleMessages = [
     message: 'Apple Vision Pro 值得购买吗？'
   },
   {
-    heading: 'Vercel AI SDK 如何工作？',
-    message: 'Vercel AI SDK 如何工作？'
+    heading: '什么是检索增强生成（RAG）？',
+    message: '什么是检索增强生成（RAG）？'
   },
   {
     heading: '特斯拉 vs 比亚迪',

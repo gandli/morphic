@@ -29,20 +29,20 @@ export const Section: React.FC<SectionProps> = ({
 }) => {
   let icon: React.ReactNode
   switch (title) {
-    case 'Images':
+    case '图片':
       // eslint-disable-next-line jsx-a11y/alt-text
       icon = <Image size={18} className="mr-2" />
       break
-    case 'Sources':
+    case '来源':
       icon = <Newspaper size={18} className="mr-2" />
       break
-    case 'Answer':
+    case '回答':
       icon = <BookCheck size={18} className="mr-2" />
       break
-    case 'Related':
+    case '相关':
       icon = <Repeat2 size={18} className="mr-2" />
       break
-    case 'Follow-up':
+    case '跟进':
       icon = <MessageCircleMore size={18} className="mr-2" />
       break
     default:
